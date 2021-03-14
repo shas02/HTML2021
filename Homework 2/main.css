@@ -1,0 +1,44 @@
+.History {
+    width: 600px;
+    height: 300px;
+    background: aqua;
+    padding: 15px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+.Testers {
+    width: 700px;
+    height: 400px;
+    background: #738bde;
+    overflow: auto;
+    padding: 15px;
+    box-sizing: border-box;
+
+}
+
+.redtext {
+color: red;
+}
+
+.Testers > h3 {
+    color: red;
+}
+ hr {
+     height: 20px;
+     background: #124141;
+ }
+.father {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+.father2 {
+    display: flex;
+    justify-content: center;
+}
