@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Practice3</title>
+    <style>
+        .header {
+            height: 200px;
+            background: green;
+            margin: 3px;
+        }
+
+        .nav {
+            height: 100px;
+            background: #ef7171;
+            margin: 3px;
+        }
+
+        .father {
+            height: 500px;
+            display: flex;
+            justify-content: space-between;
+            margin: 3px;
+        }
+
+        .leftside {
+            width: 70%;
+            display: flex;
+            /*flex-wrap: wrap;*/
+            flex-direction: column;
+            /*align-items: flex-end;*/
+            justify-content: space-between;
+            border: 3px solid #1029ec;
+            margin: 3px;
+            box-sizing: border-box;
+        }
+
+        .point1 {
+            height: 100px;
+
+            background: blueviolet;
+            margin: 3px;
+        }
+
+        .point2 {
+            height: 50px;
+
+            background: gold;
+            margin: 3px;
+        }
+
+        .rightside {
+            width: 30%;
+            border: 3px solid yellow;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            box-sizing: border-box;
+        }
+
+        .aside {
+            height: 45%;
+            background: blue;
+            margin: 7px;
+        }
+
+        .bottom {
+            height: 100px;
+            background: yellow;
+        }
+    </style>
+</head>
+<body>
+<div class="header"></div>
+<div class="nav"></div>
+<div class="father">
+    <div class="leftside">
+        <div class="nav"></div>
+        <div class="main">
+            <div class="point1"></div>
+            <div class="point1"></div>
+            <div class="point2"></div>
+        </div>
+
+    </div>
+    <div class="rightside">
+        <div class="aside"></div>
+        <div class="aside"></div>
+    </div>
+
+</div>
+<div class="bottom"></div>
+</body>
+</html>

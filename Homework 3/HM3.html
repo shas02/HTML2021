@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HM3</title>
+    <style>
+        .father {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+
+        .ex {
+            height: 300px;
+            width: 400px;
+            border: 3px solid gray;
+            margin: 3px;
+        }
+
+        .box1 {
+            height: 30%;
+            background: blueviolet;
+            margin: 3px;
+        }
+
+        .box2 {
+            height: 70%;
+            width: 70%;
+            background: salmon;
+
+        }
+
+        .box3 {
+            height: 70%;
+            width: 30%;
+            background: aqua;
+            margin: 3px;
+        }
+
+        .bigbox {
+            height: 70%;
+            display: flex;
+            justify-content: space-between;
+
+        }
+
+        .minibox1 {
+            background: gray;
+            height: 70px;
+            width: 70px;
+            margin: 3px;
+        }
+
+        .box2a {
+            height: 70%;
+            width: 70%;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+
+        .bigerbox {
+            height: 50%;
+            width: 100%;
+            background: red;
+            margin: 3px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="father">
+
+    <div class="ex">
+        <div class="box1"></div>
+        <div class="bigbox">
+            <div class="box2"></div>
+            <div class="box3"></div>
+        </div>
+
+        <div class="ex">
+            <div class="box1"></div>
+            <div class="bigbox">
+                <div class="box2a">
+                    <div class="bigerbox"></div>
+                    <div class="minibox1"></div>
+                    <div class="minibox1"></div>
+                    <div class="minibox1"></div>
+                </div>
+                <div class="box3"></div>
+            </div>
+        </div>
+
+        <div class="ex">
+            <div class="box1"></div>
+            <div class="bigbox">
+                <div class="box2a">
+                    <div class="minibox1"></div>
+                    <div class="minibox1"></div>
+                    <div class="minibox1"></div>
+                    <div class="minibox1"></div>
+                    <div class="minibox1"></div>
+                    <div class="minibox1"></div>
+                </div>
+                <div class="box3"></div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
