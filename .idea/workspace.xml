@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6a7c647-3418-40ef-a142-33215376976f" name="Default Changelist" comment="Made practice 2">
-      <change afterPath="$PROJECT_DIR$/Homework 3/HM3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3/practice 3.html" afterDir="false" />
+    <list default="true" id="e6a7c647-3418-40ef-a142-33215376976f" name="Default Changelist" comment="Made homework 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework 2/practice2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 2/practice2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework 2/practice2style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 2/practice2style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/HM3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 3/HM3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/practice 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 3/practice 3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,8 @@
       <workItem from="1615884677862" duration="13187000" />
       <workItem from="1615969368425" duration="6647000" />
       <workItem from="1616000289775" duration="230000" />
-      <workItem from="1616066539897" duration="3799000" />
+      <workItem from="1616066539897" duration="4657000" />
+      <workItem from="1616072221604" duration="138000" />
     </task>
     <task id="LOCAL-00001" summary="Made homework 2">
       <created>1615741301640</created>
@@ -84,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615894278163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Made homework 3">
+      <created>1616071320238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616071320238</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Made homework 2" />
     <MESSAGE value="Made practice 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made practice 2" />
+    <MESSAGE value="Made homework 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made homework 3" />
   </component>
 </project>
