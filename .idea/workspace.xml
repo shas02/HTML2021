@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6a7c647-3418-40ef-a142-33215376976f" name="Default Changelist" comment="Made improvements of homework 3">
-      <change afterPath="$PROJECT_DIR$/Homework 4/HM4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 4/HM4style.css" afterDir="false" />
+    <list default="true" id="e6a7c647-3418-40ef-a142-33215376976f" name="Default Changelist" comment="Made homework 4">
+      <change afterPath="$PROJECT_DIR$/Homework 3/practice_3_V2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 4/TelegramBot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 4/TelegramBot_Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 4/HM4style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 4/HM4style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +74,13 @@
       <workItem from="1616072221604" duration="329000" />
       <workItem from="1616177046544" duration="590000" />
       <workItem from="1616235605891" duration="17067000" />
+      <workItem from="1616501364446" duration="7042000" />
+      <workItem from="1616603937651" duration="110000" />
+      <workItem from="1632841908670" duration="4565000" />
+      <workItem from="1632903173124" duration="8601000" />
+      <workItem from="1632917673610" duration="11785000" />
+      <workItem from="1632988091939" duration="5347000" />
+      <workItem from="1632994846411" duration="583000" />
     </task>
     <task id="LOCAL-00001" summary="Made homework 2">
       <created>1615741301640</created>
@@ -99,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616072459168</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Made homework 4">
+      <created>1616501646318</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616501646318</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +152,7 @@
     <MESSAGE value="Made practice 2" />
     <MESSAGE value="Made homework 3" />
     <MESSAGE value="Made improvements of homework 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made improvements of homework 3" />
+    <MESSAGE value="Made homework 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made homework 4" />
   </component>
 </project>

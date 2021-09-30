@@ -38,6 +38,7 @@ nav {
     line-height: 20px;
     text-transform: uppercase;
     color: #292929;
+    text-decoration: none;
 }
 
 .nav_button {
